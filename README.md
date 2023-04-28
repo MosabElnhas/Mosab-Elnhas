@@ -19,7 +19,8 @@
 
 
 ### Connect with Me :
-
+https://www.facebook.com/profile.php?id=100009248082665
+https://www.linkedin.com/in/%D9%85%D8%B5%D8%B9%D8%A8-%D8%A7%D9%84%D9%86%D8%AD%D8%A7%D8%B3-8ab610225/
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -30,7 +31,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-
 
 
 
