@@ -19,6 +19,9 @@
 
 
 ### Connect with Me :
+<a href="https://linkedin.com/in/Mosab M Elnhas" target="_blank"><img src="https://img.shields.io/badge/%D9%85%D8%B5%D8%B9%D8%A8-%D8%A7%D9%84%D9%86%D8%AD%D8%A7%D8%B3-8ab610225/
+"/></a>
+<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 https://www.facebook.com/profile.php?id=100009248082665
 https://www.linkedin.com/in/%D9%85%D8%B5%D8%B9%D8%A8-%D8%A7%D9%84%D9%86%D8%AD%D8%A7%D8%B3-8ab610225/
 
